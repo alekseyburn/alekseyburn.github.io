@@ -179,7 +179,6 @@ body {
 
 @media (min-width: 768px) {
   .page-header {
-    position: -webkit-sticky;
     position: sticky;
     top: 0;
     z-index: 3;
@@ -475,6 +474,12 @@ body {
     background-position: center bottom;
     -webkit-box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5);
             box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5); }
+  .catalog__item--travelly {
+    background-image: url("../img/bg-travelly.jpg"); }
+  .catalog__item--kvast {
+    background-image: url("../img/bg-kvast.jpg"); }
+  .catalog__item--calendar {
+    background-image: url("../img/bg-calendar.jpg"); }
   .catalog__item--yoga {
     background-image: url("../img/bg-yoga@1x.jpg"); }
     @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 1.5dppx) {
