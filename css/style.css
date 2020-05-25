@@ -474,6 +474,10 @@ body {
     background-position: center bottom;
     -webkit-box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5);
             box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5); }
+  .catalog__item--days {
+    background-image: url("../img/bg-traveldays.jpg"); }
+  .catalog__item--colors {
+    background-image: url("../img/bg-colors.jpg"); }
   .catalog__item--travelly {
     background-image: url("../img/bg-travelly.jpg"); }
   .catalog__item--kvast {
