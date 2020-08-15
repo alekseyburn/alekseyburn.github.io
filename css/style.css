@@ -474,6 +474,8 @@ body {
     background-position: center bottom;
     -webkit-box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5);
             box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5); }
+  .catalog__item--kekstagram {
+    background-image: url("../img/bg-kekstagram.jpg"); }
   .catalog__item--days {
     background-image: url("../img/bg-traveldays.jpg"); }
   .catalog__item--colors {
